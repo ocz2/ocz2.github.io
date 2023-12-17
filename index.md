@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Ethical Hacking Basics
 ---
 
+Welcome to my blog!
